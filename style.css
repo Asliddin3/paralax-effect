@@ -1,0 +1,128 @@
+body{
+    height: 1400px;
+    margin-top: 100px;
+}
+.paralax{
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    height: 438.3299865722656px;
+    width: 1031.8699951171875px;
+    left: -20.25px;
+    top: 0px;
+    margin-bottom: 40px;
+    position: relative;
+    overflow: hidden;
+    z-index: 0;
+}
+.bg-foto{
+    
+    height: 438.3299865722656px;
+    width: 1031.8699951171875px;
+    left: -20.25px;
+    top: 0px;
+    position: absolute;
+}
+.river{
+    position: absolute;
+    height: 154.88998413085938px;
+    width: 1040.8699951171875px;
+    left: -20.25px;
+    top: 275.44000244140625px;
+    border-radius: 0px;
+    z-index: 2;
+    overflow: hidden;
+}
+.mountain{
+    position: absolute;
+    height: 113.53999328613281px;
+    width: 1011px;
+    left: -4px;
+    top: 187.8599853515625px;
+    z-index: 3;
+}
+.birds{
+    height: 38.38999938964844px;
+    width: 115.73001098632812px;
+    left: 364.219970703125px;
+    top: 158.33001708984375px;
+    position: absolute;
+    z-index: 2;
+}
+.right-mount{
+    height: 77.70001220703125px;
+    width: 450.1099853515625px;
+    left: 547.5800170898438px;
+    top: 216.67999267578125px;
+    position: absolute;
+    z-index: 2;
+
+}
+.cloud-left{
+    width: 547.75px;
+    height: 133.2px;
+    position: absolute;
+    top: 7.09px;
+    left: -1.2px;
+    z-index: 2;
+}
+.left-bottom-cloud{
+    height: 60.410003662109375px;
+    width: 242.8800048828125px;
+    left: -1.489990234375px;
+    top: 131.52999877929688px;
+    position: absolute;
+    z-index: 2;
+}
+.top-cloud{
+    height: 8.359971046447754px;
+    width: 27.52001953125px;
+    left: 570.5999755859375px;
+    top: 64.08001708984375px;
+    position: absolute;
+    z-index: 2;
+}
+.right-cloud{
+    height: 124.40589141845703px;
+    width: 372.2099609375px;
+    left: 601.3300170898438px;
+    top: 25.47412109375px;
+    border-radius: 0px;
+    position: absolute;
+    z-index: 2;
+}
+.line{
+    height: 183.47000122070312px;
+    width: 833.739990234375px;
+    right: 0;
+    top: 6.5px;
+    border-radius: 0px;
+    position: absolute;
+    z-index: 1;
+    filter: brightness(400%);
+    opacity: 0.2;   
+}
+.sun{
+    height: 70.94000122731983px;
+    width: 70.94000122731983px;
+    left: 540.6399536132812px;
+    top: 160.2294921875px;
+     background-color: yellow; 
+     box-shadow: 100px,30,0,yellow ,
+                 100px,30,0,yellow ,
+                 100px,30,0,yellow ,
+                 100px,30,0,yellow; 
+ 
+
+    position: absolute;
+    z-index: 1;
+    border-radius: 50%;
+}
+
+.midle-cloud{
+    height: 13.511371612548828px;
+    width: 33.69000244140625px;
+    left: 586.1400146484375px;
+    top: 118.4886474609375px;
+    position: absolute;
+
+}
